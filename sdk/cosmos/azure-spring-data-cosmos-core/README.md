@@ -18,8 +18,7 @@
 * [Key concepts](#Key concepts)
 * [Next steps](#Next steps)
 
-## Examples
-Please refer to [sample project here](./samplecode).
+<!-- add section after samples are added ## Examples -->
 
 ## Feature List
 - Spring Data ReactiveCrudRepository CrudRepository basic CRUD functionality
@@ -64,7 +63,7 @@ public class MyItem {
     String _etag;
 }
 ```
-- Supports [Azure Cosmos DB partition](https://docs.microsoft.com/azure/cosmos-db/partition-data). To specify a field of domain class to be partition key field, just annotate it with `@PartitionKey`. When you do CRUD operation, pls specify your partition value. For more sample on partition CRUD, pls refer to [test here](./src/test/java/com/azure/spring/data/cosmos/repository/integration/AddressRepositoryIT.java)
+- Supports [Azure Cosmos DB partition](https://docs.microsoft.com/azure/cosmos-db/partition-data). To specify a field of domain class to be partition key field, just annotate it with `@PartitionKey`. When you do CRUD operation, pls specify your partition value. For more sample on partition CRUD, pls refer to [test here](https://github.com/Azure/azure-sdk-for-java/blob/master/sdk/cosmos/azure-spring-data-cosmos-test/src/test/java/com/azure/spring/data/cosmos/repository/integration/AddressRepositoryIT.java)
 - Supports [Spring Data custom query](https://docs.spring.io/spring-data/commons/docs/current/reference/html/#repositories.query-methods.details) find operation, e.g., `findByAFieldAndBField`
 - Supports [Spring Data pagable and sort](https://docs.spring.io/spring-data/commons/docs/current/reference/html/#repositories.special-parameters).
   - Based on available RUs on the database account, cosmosDB can return items less than or equal to the requested size.
