@@ -1,0 +1,350 @@
+{
+  "homepages": [],
+  "source_base_path": "d:/a/1/s/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/appconfiguration.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/appconfiguration.html",
+          "hash": "EIZyJYQUvdHr1CcTZf0t9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/authorization.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/authorization.html",
+          "hash": "8vPzxB/Uq6Nc+dZ+rtkqFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/batch.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/batch.html",
+          "hash": "xs9gNZh3IY7Ufx+J7ut3iQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/cognitiveservices.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/cognitiveservices.html",
+          "hash": "MKmwFWEsgD8VoRdhQOgSEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/core.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/core.html",
+          "hash": "YEwG9DjKyIq7a1sVUppYTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/cosmos.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/cosmos.html",
+          "hash": "tCn730n6b+lv1vi8SmZefQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/eventgrid.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/eventgrid.html",
+          "hash": "jKYQ92f+3rgDUYhZoJPjhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/eventhubs.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/eventhubs.html",
+          "hash": "ivjmJ7kzJJ7PBH8f5MZ5JQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/formrecognizer.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/formrecognizer.html",
+          "hash": "23Zpmz+vmcFnbRVjJ7Q1YA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/identity.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/identity.html",
+          "hash": "R5/I6jvNw4kKJ46IT07YHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "7nkV2iQ2pmptUp3xQebXQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/keyvault.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/keyvault.html",
+          "hash": "d/l0qAlVIOqCCpeJHrHgzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/loganalytics.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/loganalytics.html",
+          "hash": "/D8veWrigMDcuWhJs6Zd0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/mediaservices.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/mediaservices.html",
+          "hash": "1IgBLCB0Co0FSuaecTsUyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/resourcemanager.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/resourcemanager.html",
+          "hash": "Ow3vV8H882VQ8373l6qbGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/schemaregistry.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/schemaregistry.html",
+          "hash": "TbDR1sUm0JSA4nkJVoechg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/search.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/search.html",
+          "hash": "3YwrTsODapnYIFudoq00Gg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/servicebus.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/servicebus.html",
+          "hash": "M8FzFH/tSNa13+xpdsi4+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/spring.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/spring.html",
+          "hash": "vbPXPo+fh333nQoWawzk0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/storage.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/storage.html",
+          "hash": "Kxm3DvsMCP8NeYY65Gfrlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/tables.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/tables.html",
+          "hash": "d+sJ0MvviHbQLqY9tFxgvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/textanalytics.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/textanalytics.html",
+          "hash": "w6U/KHpip97ovPKJIyjRig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "hst4eFhv+OrmB419aPUz5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "AyovXjKeJZaNdQac+ARFhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "DfMa3MZ0QjYugN6PK5JcYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 23,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
