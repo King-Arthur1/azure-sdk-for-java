@@ -18,6 +18,7 @@
 * [Key concepts](#Key concepts)
 * [Next steps](#Next steps)
 
+## Examples
 <!-- add section after samples are added ## Examples -->
 
 ## Feature List
